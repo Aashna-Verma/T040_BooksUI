@@ -12,8 +12,8 @@ Email: aashnaverma@cmail.carleton.ca
 
 ## Installation
 Python 3.7.4 or later must be installed.
-Built-in modules _csv_ and _os_ are used.
-The user-defined modules required can be downloaded [here.](https://github.com/AASH800/T040_BooksUI/archive/refs/heads/main.zip)
+Built-in modules _csv_ and _os_ are used.  
+The user-defined modules required can be downloaded [here.](https://github.com/AASH800/T040_BooksUI/archive/refs/heads/main.zip)  
 The program must run with the csv file in the same directory. 
 
 ## Usage
