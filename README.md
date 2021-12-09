@@ -1,5 +1,5 @@
 # T040_BooksUI
-*ECOR 1042 Fall 2021 README for **BooksUI** - Project Version 1.0 8/12/2021*  
+*ECOR 1042 Fall 2021 README for **BooksUI** - Project Version 1.0 - 8/12/2021*  
 *Copyright 2021 Aashna Verma, Liana Cabalit, Koralie Mokam and Alvin Muguluma*
 
 ## Contact information
