@@ -8,8 +8,9 @@ Voice: (613)-875-8144
 Email: aashnaverma@cmail.carleton.ca
 
 ## Description
-This project contains a program that takes a csv file wich
-contains a dataset of books. The program then retrieves, removes 
+This project is a program that takes a csv file
+containing books' information.  
+The program then retrieves, removes, adds 
 or sorts the books based on the user input and prints statement 
 for whichever function the user called.
 
@@ -27,15 +28,15 @@ The program must run with the csv file in the same directory.
 
 ## Usage
 The module T040_P4_BooksUI.py must be executed in shell in order to utilize the program.
->python T040_P4_BooksUI.py
+>python T040_P4_booksUI.py
 
 When prompted with the list of commands below (L, A, R, F, NC, CA, CB, G, S, Q), enter the command of choice.   
 
-**Note:** The first command _must_ be L for to load a file.   
-The filename prompted to be entered _must_ be the name of a comma delimited file type saved in the same directory, followed by .csv (e.g. Google_Books_Dataset.csv).  
+**Note:** The first command _must_ be L to load a file.   
+The filename prompted to be entered _must_ be the name of a csv file type saved in the same directory, followed by .csv (e.g. Google_Books_Dataset.csv).  
 
 Follow the program's instructions to complete the analysis.   
-After an analysis is completed the prompts below will be redisplayed on the shell.   
+After an analysis is completed, the prompts below will be redisplayed on the shell.   
 Repeat the same steps to excute another analysis or quit the program using the Q command.  
 ```
  1- Command Line L)oad file
