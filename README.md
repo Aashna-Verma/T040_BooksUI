@@ -8,7 +8,16 @@ Voice: (613)-875-8144
 Email: aashnaverma@cmail.carleton.ca
 
 ## Description
+This project contains a program that takes a csv file wich
+contains a dataset of books. The program then retrieves, removes 
+or sorts the books based on the user input and prints statement 
+for whichever function the user called.
 
+The project contains 4 files:
+>P5_T040_load_dataset.py                A python script  
+>T040_P2_search_modify_dataset.py-------A python script  
+>T040_P3_sorting.py---------------------A python script  
+>T040_P2_booksUI.py---------------------A python script
 
 ## Installation
 Python 3.7.4 or later must be installed.
@@ -20,9 +29,14 @@ The program must run with the csv file in the same directory.
 The module T040_P4_BooksUI.py must be executed in shell in order to utilize the program.
 >python T040_P4_BooksUI.py
 
-When prompted with the list of commands below (L, A, R, F, NC, CA, CB, G, S, Q), enter the command of choice. 
-The first command _must_ be L for L)oad data. Following each analysis result displayed, another analysis command can be selected to be 
-applied; or the program can be quit using the Q command.  
+When prompted with the list of commands below (L, A, R, F, NC, CA, CB, G, S, Q), enter the command of choice.   
+
+**Note:** The first command _must_ be L for to load a file.   
+The filename prompted to be entered _must_ be the name of a comma delimited file type saved in the same directory, followed by .csv (e.g. Google_Books_Dataset.csv).  
+
+Follow the program's instructions to complete the analysis.   
+After an analysis is completed the prompts below will be redisplayed on the shell.   
+Repeat the same steps to excute another analysis or quit the program using the Q command.  
 ```
  1- Command Line L)oad file
  2- Command Line A)dd book
@@ -41,14 +55,14 @@ applied; or the program can be quit using the Q command.
 ```
 
 ## Credits
-Aashna Verma  
+### Aashna Verma  
 >print_dictionary_category, find_books_by_title, all_categories_for_book_title, sort_books_title, sort_books_pageCount
 
-Liana Cabalit  
+### Liana Cabalit  
 >add_book, get_books_by_author, get_books_by_category, sort_books_publisher
 
-Alvin Muguluma  
+### Alvin Muguluma  
 >get_books_by_rate, check_category_and_title, get_author_categories, sort_books_ascending_rate, sort_books_descending_rate 
 
-Koralie Mokam  
+### Koralie Mokam  
 >remove_book, get_books_by_publisher, get_book_by_category_and_rate, sort_books_category
