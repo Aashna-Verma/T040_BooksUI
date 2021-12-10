@@ -13,11 +13,11 @@ contains a dataset of books. The program then retrieves, removes
 or sorts the books based on the user input and prints statement 
 for whichever function the user called.
 
-The project contains 4 files:
->P5_T040_load_dataset.py                A python script  
->T040_P2_search_modify_dataset.py-------A python script  
->T040_P3_sorting.py---------------------A python script  
->T040_P2_booksUI.py---------------------A python script
+The project contains 4 python scripts:
+>P5_T040_load_dataset.py 
+>T040_P2_search_modify_dataset.py 
+>T040_P3_sorting.py 
+>T040_P2_booksUI.py
 
 ## Installation
 Python 3.7.4 or later must be installed.
