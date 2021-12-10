@@ -1,5 +1,5 @@
 # T040_BooksUI
-*ECOR 1042 Fall 2021 README for **BooksUI** - Project Version 1.0 - 8/12/2021*  
+*ECOR 1042 Fall 2021 README for [**BooksUI**](https://github.com/AASH800/T040_BooksUI) - Project Version 1.0 - 8/12/2021*  
 *Copyright 2021 Aashna Verma, Liana Cabalit, Koralie Mokam and Alvin Muguluma*
 
 ## Contact information
@@ -17,6 +17,12 @@ The user-defined modules required can be downloaded [here.](https://github.com/A
 The program must run with the csv file in the same directory. 
 
 ## Usage
+The module T040_P4_BooksUI.py must be executed in shell in order to utilize the program.
+>python T040_P4_BooksUI.py
+
+When prompted with the list of commands below (L, A, R, F, NC, CA, CB, G, S, Q), enter the command of choice. 
+The first command _must_ be L for L)oad data. Following each analysis result displayed, another analysis command can be selected to be 
+applied; or the program can be quit using the Q command.  
 ```
  1- Command Line L)oad file
  2- Command Line A)dd book
