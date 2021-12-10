@@ -41,14 +41,14 @@ applied; or the program can be quit using the Q command.
 ```
 
 ## Credits
-### Aashna Verma  
+Aashna Verma  
 >print_dictionary_category, find_books_by_title, all_categories_for_book_title, sort_books_title, sort_books_pageCount
 
-### Liana Cabalit  
+Liana Cabalit  
 >add_book, get_books_by_author, get_books_by_category, sort_books_publisher
 
-### Alvin Muguluma  
+Alvin Muguluma  
 >get_books_by_rate, check_category_and_title, get_author_categories, sort_books_ascending_rate, sort_books_descending_rate 
 
-### Koralie Mokam  
+Koralie Mokam  
 >remove_book, get_books_by_publisher, get_book_by_category_and_rate, sort_books_category
